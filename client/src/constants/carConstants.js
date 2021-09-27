@@ -1,0 +1,5 @@
+export const CARS_LIST_REQUEST = 'CARS_LIST_REQUEST';
+export const CARS_LIST_SUCCESS='CARS_LIST_SUCCESS';
+export const CARS_LIST_FAIL='CARS_LIST_FAIL';
+export const CAR_DELETED="CARS_DELETED";
+export const CAR_ADDED="CARS_ADDED"; 
